@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🔭 I’m currently working on React
+🔭 I’m currently learning React
 
  📫 How to reach me: [:briefcase:	Linkedin](https://www.linkedin.com/in/1ds19u78)
  
